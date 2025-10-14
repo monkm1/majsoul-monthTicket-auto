@@ -6,7 +6,7 @@
 이 프로젝트는 [mahjong_soul_api](https://github.com/MahjongRepository/mahjong_soul_api)를 기반으로 하고 있습니다.
 <br/><br/>
 ## 사전 작업
-
+1
 1. 브라우저로 작혼에 접속합니다.
 2. `F12`를 눌러 개발자 모드에 접근합니다.
 3. `Network` 탭으로 이동한 후 `login`을 검색합니다.
